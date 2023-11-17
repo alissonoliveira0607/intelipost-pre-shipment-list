@@ -28,7 +28,7 @@ python app.py
 
 ```bash	
 git clone https://github.com/alissonoliveira0607/intelipost-pre-shipment-list.git
-cd minha-aplicacao
+cd diretorio-aplicacao
 
 # Construindo a imagem Docker
 docker build -t label/image:tag .
