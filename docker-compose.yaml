@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  minha-aplicacao:
+    image: aoliveirasilva/pre_shipment_list:qa   
+    ports:
+      - "80:5000"
+    volumes:
+      - ./log:/app/log  # Mapeia a pasta de logs do container para ./logs na máquina local

@@ -27,7 +27,7 @@ python app.py
 - Docker Compose
 
 ```bash	
-git clone git@github.com:alissonoliveira0607/intelipost-pre-shipment-list.git
+git clone https://github.com/alissonoliveira0607/intelipost-pre-shipment-list.git
 cd minha-aplicacao
 
 # Construindo a imagem Docker
